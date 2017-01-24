@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "title": "MyAzureFunction"
   },
-  "host": "la-ams.azurewebsites.net",
+  "host": "mediaservicesxp3.azurewebsites.net",
   "paths": {
     "/api/LA-1-CreateEmptyAsset": {
       "get": {
